@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KafkaDemo", "KafkaDemo\KafkaDemo.csproj", "{1C6F0D8F-A423-4BB0-A55C-F50831580B59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C6F0D8F-A423-4BB0-A55C-F50831580B59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C6F0D8F-A423-4BB0-A55C-F50831580B59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C6F0D8F-A423-4BB0-A55C-F50831580B59}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C6F0D8F-A423-4BB0-A55C-F50831580B59}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B21160A0-4336-403C-B2C5-48E5D91F699A}
+	EndGlobalSection
+EndGlobal
